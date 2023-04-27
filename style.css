@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+    background-color: indigo;
+}
+
+h1 {
+    background-color: greenyellow;
+    text-align: center;
+}
+
+html {
+    background-color: indigo;
+}
+
+.link-header {
+    color: mediumblue;
+}
+
+.link-nav {
+    color:mediumblue;
+}
+
+a:active {
+color: maroon;
+}
